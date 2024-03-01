@@ -23,9 +23,9 @@ public class HappyStringsCounter {
     public static boolean isHappyString(String str) {
         for (int i = 1; i < str.length(); i++) {
             if (str.charAt(i) == str.charAt(i - 1)) {
-                return false; // Not a happy string
+                return false;        // Not a happy string
             }
         }
-        return true; // Happy string
+        return true;                 // Happy string
     }
 }
