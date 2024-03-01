@@ -1,1 +1,1 @@
-this repository is technical part of "swift, making science" company internship candidates selection.
+this repository is the technical part of candidate selection for the company  "sweeft, making science".
